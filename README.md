@@ -1,5 +1,5 @@
 ![Test Image 1](/preview.jpg)
-# CoronaEXE.exe 
+# CoronaEXE
 
  Just a little piece of trollware ( malware for trolling ) that i made when i was bored. Dubbed it "CoronaEXE.exe" just like what Covid19 does, it duplicates itself in a very aggressive once in contact with someone ( in this case, when you touch its GUI-close button :} ) and it also spreads very fast. Feel free not to run it or do it if it please you. :P
 ##### The table below describes each property of the malware :
